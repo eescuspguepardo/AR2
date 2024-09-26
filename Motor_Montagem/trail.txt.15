@@ -1,0 +1,122 @@
+﻿!trail file version No. 1961
+!Creo  TM  7.0  (c) 2023 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 2796
+!	Application: Creo_Parametric
+!	Start date&time: 2023/02/06  16:15:44
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 7.0.2.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Windows\System32\traceback.log
+!end Exit Logger data.
+< 0 1.220741 1795 0 0 1030 1920 0 0 1080 13
+!mem_use INCREASE Blocks 872160, AppSize 10956147, SysSize 31489728
+< 0 0.992000 1650 0 0 837 1920 0 0 1080 13
+< 0 0.992000 1485 0 0 837 1920 0 0 1080 13
+< 0 0.990815 1485 0 0 836 1920 0 0 1080 13
+< 0 0.990815 1501 0 0 836 1920 0 0 1080 13
+< 0 0.990815 1517 0 0 836 1920 0 0 1080 13
+< 0 0.990815 1533 0 0 836 1920 0 0 1080 13
+!%CIWelcome to Creo Parametric Educational Edition 7.0.2.0.
+~ Activate `startupdlg` `PushButton2`
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `pb_favorites__FAV_8_`
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+!%CEInvalid Directory
+~ Activate `file_open` `SAB_C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Guepardo\\Desenhos\\Montag\
+ens`
+~ Select `file_open` `Ph_list.Filelist` 1 `Montagem2`
+~ Command `ProFileSelPushOpen@context_dlg_open_cmd` 
+~ Activate `startupdlg` `OKButton`
+!AFX datecode: 7.0.2.0-rc.1 2020.08.06
+!AFX exec path: C:\Program Files\PTC\Creo 7.0.2.0\Common Files\afx\x86e_win64\afx70.dll
+!AFX text path: C:\Program Files\PTC\Creo 7.0.2.0\Common Files\afx\
+#PART
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+C:\Users\pedro\OneDrive\Área de Trabalho\Guepardo\Desenhos\Montagens\Montagem2\Garfo.prt.4
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+! 6-Feb-23 16:16:05  Start C:\Users\pedro\OneDrive\Área de Trabalho\Guepardo\Desenhos\Montagens\Montagem2\garfo.prt.4
+!LIGHT_FIX_MODEL_RMODE is 51
+! 6-Feb-23 16:16:05  End   C:\Users\pedro\OneDrive\Área de Trabalho\Guepardo\Desenhos\Montagens\Montagem2\garfo.prt.4
+!%CWNew objects created with this educational version of Creo Parametric will not be
+!%C_compatible with commercially licensed Creo Parametric software.
+@ oa_sel_filter_set _30_
+@ stack attr 2
+< 0 0.990815 1562 0 0 836 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 0 0.990815 1572 0 0 836 1920 0 0 1080 13
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ Wheel `main_dlg_cur` `proe_win` 9 870 184 458752 0 1572 836 1920 1080 24026
+!mem_use INCREASE Blocks 1006882, AppSize 42066333, SysSize 69335288
+~ Wheel `main_dlg_cur` `proe_win` 9 870 184 458752 0 1572 836 1920 1080 24093
+~ Wheel `main_dlg_cur` `proe_win` 9 870 184 458752 0 1572 836 1920 1080 24137
+~ Wheel `main_dlg_cur` `proe_win` 9 870 184 458752 0 1572 836 1920 1080 24197
+~ Wheel `main_dlg_cur` `proe_win` 9 876 181 393216 0 1572 836 1920 1080 24386
+~ Wheel `main_dlg_cur` `proe_win` 9 876 181 458752 0 1572 836 1920 1080 24402
+~ Wheel `main_dlg_cur` `proe_win` 9 876 181 393216 0 1572 836 1920 1080 24405
+~ Wheel `main_dlg_cur` `proe_win` 9 876 181 393216 0 1572 836 1920 1080 24408
+~ Wheel `main_dlg_cur` `proe_win` 9 876 181 458752 0 1572 836 1920 1080 24430
+~ Wheel `main_dlg_cur` `proe_win` 9 876 181 393216 0 1572 836 1920 1080 24439
+~ Wheel `main_dlg_cur` `proe_win` 9 920 161 458752 0 1572 836 1920 1080 24823
+~ Wheel `main_dlg_cur` `proe_win` 9 923 161 393216 512 1572 836 1920 1080 24837
+~ Wheel `main_dlg_cur` `proe_win` 9 926 161 393216 0 1572 836 1920 1080 24857
+~ Wheel `main_dlg_cur` `proe_win` 9 927 161 393216 0 1572 836 1920 1080 24885
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

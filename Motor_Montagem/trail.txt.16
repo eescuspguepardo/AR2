@@ -1,0 +1,59 @@
+﻿!trail file version No. 2123
+!Creo  TM  10.0  (c) 2024 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 8160
+!	Application: Creo_Parametric
+!	Start date&time: 2024/09/20  19:45:37
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 10.0.5.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Users\arbbb\Área de Trabalho\Projetos\AR2\Montagem AR2\Motor_Montagem\traceback.log
+!end Exit Logger data.
+< 0 1.647407 2552 0 0 1390 2560 0 0 1440 13
+!mem_use INCREASE Blocks 934191, AppSize 13596993, SysSize 33692360
+< 0 1.052000 1052 0 0 1000 2560 0 0 1440 13
+< 0 1.055000 1055 0 0 1000 2560 0 0 1440 13
+< 0 1.055000 1055 0 0 1003 2560 0 0 1440 13
+< 0 1.055000 1055 0 0 1006 2560 0 0 1440 13
+< 0 0.992000 992 0 0 1006 2560 0 0 1440 13
+< 0 1.409185 2361 0 0 1189 2560 0 0 1440 13
+< 0 1.409185 2279 0 0 1189 2560 0 0 1440 13
+< 0 1.408000 2279 0 0 1188 2560 0 0 1440 13
+!%CIWelcome to Creo Parametric Educational Edition 10.0.5.0.
+!AFX datecode: 10.0.5.0-rc.2 2024.04.25
+!AFX exec path: C:\Program Files\PTC\Creo 10.0.5.0\Common Files\afx\x86e_win64\afx100.dll
+!AFX text path: C:\Program Files\PTC\Creo 10.0.5.0\Common Files\afx\
+< 0 1.408000 2373 0 0 1188 2560 0 0 1440 13
+#PART
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+C:\Users\arbbb\Área de Trabalho\Projetos\AR2\Montagem AR2\Motor_Montagem\0025060256.prt.1
+< 2 0.118519 178 0 0 100 2560 0 0 1440 13
+~ Trail `` `` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!20-Sep-24 19:45:39  Start C:\Users\arbbb\Área de Trabalho\Projetos\AR2\Montagem AR2\Motor_Montagem\0025060256.prt.1
+!LIGHT_FIX_MODEL_RMODE is 51
+!20-Sep-24 19:45:39  End   C:\Users\arbbb\Área de Trabalho\Projetos\AR2\Montagem AR2\Motor_Montagem\0025060256.prt.1
+!%CWNew objects created with this educational version of Creo Parametric will not be
+!%C_compatible with commercially licensed Creo Parametric software.
+@ oa_sel_filter_set _90_
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 0 1.408000 2318 0 0 1188 2560 0 0 1440 13
+< 0 1.408000 2276 0 0 1188 2560 0 0 1440 13
+< 0 1.408000 2272 0 0 1188 2560 0 0 1440 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+!mem_use INCREASE Blocks 1074306, AppSize 55551892, SysSize 78847232
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `` `` `EmbedBrowserTimer`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

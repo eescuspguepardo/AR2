@@ -1,0 +1,101 @@
+﻿!trail file version No. 2123
+!Creo  TM  10.0  (c) 2024 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 21424
+!	Application: Creo_Parametric
+!	Start date&time: 2024/09/20  19:46:19
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 10.0.5.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Users\arbbb\Área de Trabalho\Projetos\AR2\Montagem AR2\Motor_Montagem\traceback.log
+!end Exit Logger data.
+< 0 1.647407 2552 0 0 1390 2560 0 0 1440 13
+!mem_use INCREASE Blocks 934193, AppSize 13597057, SysSize 33692392
+< 0 1.052000 1052 0 0 1000 2560 0 0 1440 13
+< 0 1.055000 1055 0 0 1000 2560 0 0 1440 13
+< 0 1.055000 1055 0 0 1003 2560 0 0 1440 13
+< 0 1.055000 1055 0 0 1006 2560 0 0 1440 13
+< 0 0.992000 992 0 0 1006 2560 0 0 1440 13
+< 0 1.409185 2361 0 0 1189 2560 0 0 1440 13
+< 0 1.409185 2279 0 0 1189 2560 0 0 1440 13
+< 0 1.408000 2279 0 0 1188 2560 0 0 1440 13
+!%CIWelcome to Creo Parametric Educational Edition 10.0.5.0.
+!AFX datecode: 10.0.5.0-rc.2 2024.04.25
+!AFX exec path: C:\Program Files\PTC\Creo 10.0.5.0\Common Files\afx\x86e_win64\afx100.dll
+!AFX text path: C:\Program Files\PTC\Creo 10.0.5.0\Common Files\afx\
+< 0 1.408000 2373 0 0 1188 2560 0 0 1440 13
+#ASSEMBLY
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+C:\Users\arbbb\Área de Trabalho\Projetos\AR2\Montagem AR2\Motor_Montagem\air_filter_k_n_v4.asm.2
+< 2 0.118519 178 0 0 100 2560 0 0 1440 13
+~ Trail `` `` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!20-Sep-24 19:46:21  Start C:\Users\arbbb\Área de Trabalho\Projetos\AR2\Montagem AR2\Motor_Montagem\air_filter_k_n_v4.asm.2
+!LIGHT_FIX_MODEL_RMODE is 51
+!20-Sep-24 19:46:21  End   C:\Users\arbbb\Área de Trabalho\Projetos\AR2\Montagem AR2\Motor_Montagem\air_filter_k_n_v4.asm.2
+!%CWNew objects created with this educational version of Creo Parametric will not be
+!%C_compatible with commercially licensed Creo Parametric software.
+@ oa_sel_filter_set _90_
+< 0 1.403259 2373 0 0 1184 2560 0 0 1440 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+< 0 1.403259 2318 0 0 1184 2560 0 0 1440 13
+!Command ProCmdInfoNmgrLightDlg was pushed from the software.
+< 0 1.403259 2272 0 0 1184 2560 0 0 1440 13
+!mem_use INCREASE Blocks 1077395, AppSize 35013682, SysSize 61439608
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `` `` `EmbedBrowserTimer`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 973 732 0 2 2272 1184 2560 1440 11965
+~ Move `main_dlg_cur` `proe_win` 9 974 732 0 514 2272 1184 2560 1440 11972
+~ Move `main_dlg_cur` `proe_win` 9 975 732 0 514 2272 1184 2560 1440 11980
+~ Move `main_dlg_cur` `proe_win` 9 977 733 0 1538 2272 1184 2560 1440 11988
+~ Move `main_dlg_cur` `proe_win` 9 981 733 0 514 2272 1184 2560 1440 11996
+~ Move `main_dlg_cur` `proe_win` 9 983 733 0 514 2272 1184 2560 1440 12004
+~ Move `main_dlg_cur` `proe_win` 9 987 732 0 1538 2272 1184 2560 1440 12014
+~ Move `main_dlg_cur` `proe_win` 9 994 730 0 1538 2272 1184 2560 1440 12020
+~ Move `main_dlg_cur` `proe_win` 9 1003 728 0 1538 2272 1184 2560 1440 12028
+~ Move `main_dlg_cur` `proe_win` 9 1016 724 0 1538 2272 1184 2560 1440 12036
+~ Move `main_dlg_cur` `proe_win` 9 1031 720 0 1538 2272 1184 2560 1440 12044
+~ Move `main_dlg_cur` `proe_win` 9 1052 715 0 1538 2272 1184 2560 1440 12052
+~ Move `main_dlg_cur` `proe_win` 9 1080 707 0 1538 2272 1184 2560 1440 12060
+~ Move `main_dlg_cur` `proe_win` 9 1112 701 0 1538 2272 1184 2560 1440 12069
+~ Move `main_dlg_cur` `proe_win` 9 1155 687 0 1538 2272 1184 2560 1440 12076
+~ Move `main_dlg_cur` `proe_win` 9 1207 672 0 1538 2272 1184 2560 1440 12084
+~ Move `main_dlg_cur` `proe_win` 9 1261 655 0 1538 2272 1184 2560 1440 12092
+~ Move `main_dlg_cur` `proe_win` 9 1312 640 0 1538 2272 1184 2560 1440 12102
+~ Move `main_dlg_cur` `proe_win` 9 1366 626 0 1538 2272 1184 2560 1440 12108
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1366 626 0 0 2272 1184 2560 1440 12110
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 2560 0 0 1440 13
+~ Trail `` `` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Trail `` `` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Close `file_open` `file_open`
+~ Wheel `main_dlg_cur` `proe_win` 9 1553 479 458752 0 2272 1184 2560 1440 17152
+~ Wheel `main_dlg_cur` `proe_win` 9 1556 489 458752 1536 2272 1184 2560 1440 17173
+~ Wheel `main_dlg_cur` `proe_win` 9 1557 492 458752 1536 2272 1184 2560 1440 17176
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 501 458752 0 2272 1184 2560 1440 17377
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 507 458752 1024 2272 1184 2560 1440 17411
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 458752 0 2272 1184 2560 1440 17417
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 458752 0 2272 1184 2560 1440 17434
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 458752 0 2272 1184 2560 1440 17442
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 458752 0 2272 1184 2560 1440 17458
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 393216 0 2272 1184 2560 1440 17698
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 393216 0 2272 1184 2560 1440 17707
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 393216 0 2272 1184 2560 1440 17723
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 393216 0 2272 1184 2560 1440 17739
+~ Wheel `main_dlg_cur` `proe_win` 9 1564 509 393216 0 2272 1184 2560 1440 17770
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
